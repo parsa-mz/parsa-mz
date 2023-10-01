@@ -2,9 +2,11 @@
 
 <h3>Masters, Natural Language Processing (NLP) @ UC Santa Cruz</h2>
 
+<!--
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=parsa-mz&label=Profile%20views&color=0e75b6&style=flat" alt="parsa-mz" /> 
 </p>
+-->
 
 - 🔭 I'm a New-grad CS-AI student from UC, Santa Cruz. 
 - 🌱 Right now I’m probably reading some new paper in AI or NLP. 

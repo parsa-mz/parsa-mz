@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parsa Mazaheri</h1>
 
-<h3>Masters, Natural Language Processing (NLP) @ UC Santa Cruz</h2>
+<h3>Masters, Artificial Intelligence - (NLP) @ UC Santa Cruz</h2>
 
 <!--
 <p align="left"> 
@@ -8,7 +8,7 @@
 </p>
 -->
 
-- 🔭 I'm a New-grad CS-AI student from UC, Santa Cruz. 
+- 🔭 I'm a New-grad CS-AI student from UC, Santa Cruz with 2.5-3 years of professional experience. 
 - 🌱 Right now I’m probably reading some new paper in AI or NLP. 
 - 👯 I’m looking to collaborate on software, machine learning, and backend projects.
 - 📫 Reach me at **p.mazaheri98@gmail.com**
